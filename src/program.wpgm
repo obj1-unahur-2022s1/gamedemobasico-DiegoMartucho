@@ -1,7 +1,7 @@
 
 import wollok.game.*
 import gameDemo.*
-
+// lo logre
 program demo {
 
 	game.title("Demo Aventuras")

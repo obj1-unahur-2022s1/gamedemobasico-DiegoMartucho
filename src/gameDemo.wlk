@@ -1,4 +1,4 @@
-
+// lo logre
 object player {
 	var property position
 	var property image = "player.png"
